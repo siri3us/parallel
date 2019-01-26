@@ -4,7 +4,7 @@
 ARGS=""
 MASK="255.255.255.0"
 # There is must be a host number at the end
-IP_ADDRESS_BASE="192.168.56." 
+IP_ADDRESS_BASE="192.168.56.10" 
 # Default host number
 HOST_NUMBER="0" 
 
